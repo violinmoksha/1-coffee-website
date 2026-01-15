@@ -1,11 +1,11 @@
 export function MenuSection() {
   const drinks = [
-    { name: "Espresso", price: "40฿", description: "Rich, bold, and pure" },
+    { name: "Espresso", price: "50฿", description: "Rich, bold, and pure" },
     { name: "Americano", price: "50฿", description: "Espresso with hot water" },
     { name: "Latte", price: "50฿", description: "Smooth espresso with steamed milk" },
     { name: "Cappuccino", price: "50฿", description: "Equal parts espresso, milk, and foam" },
     { name: "Mocha", price: "50฿", description: "Espresso with chocolate and milk" },
-    { name: "Cold Brew", price: "65฿", description: "Smooth, slow-steeped coffee" },
+    { name: "Cold Brew", price: "60฿", description: "Smooth, slow-steeped coffee" },
   ]
 
   return (
